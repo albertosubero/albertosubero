@@ -23,3 +23,7 @@ const alberto = {
   challenge: "I am doing the #100DaysOfCode challenge focused on Angular and javascript"
 }
 ```
+
+### Personal portfolio
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=albertosubero&repo=angular-crypto-tracker&show_owner=true)](https://github.com/albertosubero/angular-crypto-tracker)
