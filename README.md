@@ -8,7 +8,7 @@
 
 <div>
   <p>
-  I have been a Web Developer for 6 years, I have extensive experience in creating web pages, I have perfected my technique to make friendly, attractive and highly usable pages for today's clients, my specialty is FrontEnd development, layingout responsive prototypes and adaptive with HTML5, CSS3, in addition to the "Stack MEAN" for web development based on JavaScript with different frameworks and libraries such as Angular +2, React js, Vue js.
+  I have been a Web Developer for 6 years, I have extensive experience in creating web pages, I have perfected my technique to make friendly, attractive and highly usable pages for today's clients, my specialty is Frontend development with Angular, layingout responsive prototypes and adaptive with HTML5, CSS3, in addition to the "Stack MEAN" for web development based on JavaScript with different frameworks and libraries such as Angular +2, React js, Vue js.
   </p>
 </div>
 
@@ -26,4 +26,4 @@ const alberto = {
 
 ### Personal portfolio
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=albertosubero&repo=angular-crypto-tracker&show_owner=true&theme=cobalt)](https://github.com/albertosubero/angular-crypto-tracker)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=albertosubero&repo=angular-crypto-tracker&show_owner=true&theme=cobalt3)](https://github.com/albertosubero/angular-crypto-tracker)
