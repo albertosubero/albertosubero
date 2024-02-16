@@ -35,7 +35,7 @@ const alberto = {
   code: [Javascript, Typescript, HTML, CSS, SASS],
   skills: [Angular, Vue, React, NodeJs, NestJs, NgRx, RxJs, Pinia, Vuex, Redux, Jest, Antdesign, Bootstrap, Bulma, Tailwind, Angular-Material, Styled-Components],
   architecture: ["MEAN", "MERN", "MVC design pattern", " Atomic design system pattern"],
-  challenges: "Become a fullstack develope | Learn English"
+  challenges: "Become a fullstack developer | Learn English"
 }
 ```
 
