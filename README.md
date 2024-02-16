@@ -4,11 +4,18 @@
 </p>
 
 ### Hi there 👋 I'm Alberto Subero
-> SSR Frontend Developer at [Dondoctor](https://dondoctor.com)
+> SSR Frontend Developer
 
 <div>
   <p>
-  I have been a Web Developer for 6 years, I have extensive experience in creating web pages, I have perfected my technique to make friendly, attractive and highly usable pages for today's clients, my specialty is Frontend development with Angular, layingout responsive prototypes and adaptive with HTML5, CSS3, in addition to the "Stack MEAN" for web development based on JavaScript with different frameworks and libraries such as Angular +2, React js, Vue js.
+    💡 Currently Focused on: Angular | NgRx | RxJs | NodeJs | NestJs | JavaScript | SASS
+    💡 Skilled In Crafting: Responsive & Adaptive Prototypes with HTML5 | CSS3
+    💡 Additional Expertise: React | Vue.js | TypeScript
+    📅 Experience: 8+ Years
+    
+    With over 8 years of dedicated experience, I've honed my craft and transformed the Frontend realm into my true passion. From inception to execution, I relish every phase of UI creation – be it brainstorming, wireframing, mockups, or final product delivery.
+    
+    [Develop, Design, Learn, Teach]
   </p>
 </div>
 
