@@ -9,12 +9,20 @@
 <div>
   <p>
     💡 Currently Focused on: Angular | NgRx | RxJs | NodeJs | NestJs | JavaScript | SASS
+  </p>
+  <p>
     💡 Skilled In Crafting: Responsive & Adaptive Prototypes with HTML5 | CSS3
+  </p>
+  <p>
     💡 Additional Expertise: React | Vue.js | TypeScript
+  </p>
+  <p>    
     📅 Experience: 8+ Years
-    
+  </p>    
+  <p>
     With over 8 years of dedicated experience, I've honed my craft and transformed the Frontend realm into my true passion. From inception to execution, I relish every phase of UI creation – be it brainstorming, wireframing, mockups, or final product delivery.
-    
+  </p>
+  <p>
     [Develop, Design, Learn, Teach]
   </p>
 </div>
