@@ -32,10 +32,10 @@
 ```javascript
 const alberto = {
   pronouns: "he" | "his",
-  code: [Javascript, Typescript, HTML, CSS, SASS, LESS],
-  tools: [Angular, Vue, React, Antdesign, Bootstrap, Bulma, Tailwind, Angular-Material, Styled-Components],
-  architecture: ["MEAN", "MVC design pattern", "design system pattern"],
-  challenge: "I am doing the #100DaysOfCode challenge focused on Angular and javascript"
+  code: [Javascript, Typescript, HTML, CSS, SASS],
+  skills: [Angular, Vue, React, NodeJs, NestJs, NgRx, RxJs, Pinia, Vuex, Redux, Jest, Antdesign, Bootstrap, Bulma, Tailwind, Angular-Material, Styled-Components],
+  architecture: ["MEAN", "MERN", "MVC design pattern", " Atomic design system pattern"],
+  challenges: "Become a fullstack develope | Learn English"
 }
 ```
 
