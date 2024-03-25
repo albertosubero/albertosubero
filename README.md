@@ -40,5 +40,5 @@ const alberto = {
 ```
 
 ### Personal portfolio
-
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=albertosubero&repo=juegos-py&show_owner=true&theme=cobalt3)](https://github.com/albertosubero/juegos-py)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=albertosubero&repo=angular-crypto-tracker&show_owner=true&theme=cobalt3)](https://github.com/albertosubero/angular-crypto-tracker)
