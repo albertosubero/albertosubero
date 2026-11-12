@@ -7,6 +7,7 @@
 
 <p align="center">
   <a href="https://albertosubero.dev"><img src="https://img.shields.io/badge/Portfolio-albertosubero.dev-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/albertosubero"><img src="https://img.shields.io/badge/LinkedIn-albertosubero-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:avsg1991@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_me-1F2937?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://albertosubero.dev"><img src="https://img.shields.io/badge/Work-Remote-475569?style=for-the-badge&logo=earth&logoColor=white" alt="Remote" /></a>
 </p>
@@ -86,4 +87,4 @@ I'm a frontend developer who has spent the last decade inside the Angular ecosys
 
 I'm open to conversations about senior frontend and frontend lead roles, especially Angular modernization and architecture work.
 
-📫 **[albertosubero.dev](https://albertosubero.dev)** · **[avsg1991@gmail.com](mailto:avsg1991@gmail.com)**
+📫 **[albertosubero.dev](https://albertosubero.dev)** · **[LinkedIn](https://www.linkedin.com/in/albertosubero)** · **[avsg1991@gmail.com](mailto:avsg1991@gmail.com)**
